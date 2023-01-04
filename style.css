@@ -8,27 +8,44 @@ body {
     background-color: azure;
   }
   
-  .figma-logo{
+  .figma-logo {
     width: 200px;
     display: flex;
     flex-wrap: wrap;
   }
 
-  .element{
+  .element {
     width:100px;
     height:100px;
     background: red;
   }
 
-  .left{
+  .left {
     border-top-left-radius:50px;
     border-bottom-right-radius:50px;
   }
 
-  .right{
+  .right {
     border-top-right-radius:50px;
   }
 
-  .circle{
+  .circle {
     border-radius: 50px;;
   }
+
+  .orange { 
+    background: #FB7266;
+  }
+
+  .purple {
+    background: #A061FA;
+  }
+
+  .blue {
+    background: #2EBDFA;
+  }
+
+  .green {
+    background: #00CE84;
+  }
+
